@@ -1,6 +1,6 @@
 <!-- menu-->
 
-* [Inicio](./)
+* [Inicio]()
 
 * [Empezando](./documentos/index)
     * [SubMenu](./documentos/submenu/index)
